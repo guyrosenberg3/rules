@@ -1,14 +1,12 @@
-<properties>
-    <headers>
-        <header><name>test2</name><value>a</value></header>
-    </headers>
-    <ips>
-        
-    </ips>
-    <cookies>
-        <cookie><name>test2</name><value>a</value></cookie>
-    </cookies>
-    <query_strings>
-        <qs><name>test2</name><value>a</value></qs>
-    </query_strings>
-</properties>
+<headers>
+    <header><name>test2</name><value>a</value></header>
+</headers>
+<ips>
+
+</ips>
+<cookies>
+    <cookie><name>test2</name><value>a</value></cookie>
+</cookies>
+<query_strings>
+    <qs><name>test2</name><value>a</value></qs>
+</query_strings>
