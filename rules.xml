@@ -1,4 +1,4 @@
-<xsl:variable name="properties">
+<properties>
     <headers>
         <header><name>test2</name><value>a</value></header>
     </headers>
@@ -11,4 +11,4 @@
     <query_strings>
         <qs><name>test2</name><value>a</value></qs>
     </query_strings>
-</xsl:variable>
+</properties>
